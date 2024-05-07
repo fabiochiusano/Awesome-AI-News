@@ -1,4 +1,4 @@
-# AI News Tracker: Generative AI Repository
+# AI News Tracker: Generative AI
 
 Welcome to the **AI News Tracker**, a comprehensive repository designed to organize and present the most relevant news and topics about generative AI from the past 1-2 years.
 
@@ -361,9 +361,9 @@ For example, the news [OpenAI prepares to launch an improved GPT-5](https://www.
 
 # All news with summaries and topics
 
-In this section you can find a list of ~300 relevant generative AI news from the last 1-2 years and their summaries, sorted by date and categorized by topic.
-
 [Back to table of contents](#table-of-contents)
+
+In this section you can find a list of ~300 relevant generative AI news from the last 1-2 years and their summaries, sorted by date and categorized by topic.
 
 ## Topic filters
 
