@@ -1,18 +1,18 @@
-# AI News Tracker: Generative AI
+# ✨ AI News Tracker ✨ 2023-Present
 
 Welcome to the **AI News Tracker**, a comprehensive repository designed to organize and present the most relevant news and topics about generative AI from the past 1-2 years.
 
-This repository is structured to help users quickly understand the main news, trends, and sentiments in the generative AI industry and market. Each piece of news is categorized, summarized, and analyzed for sentiment.
+This repository is structured to help users quickly understand the main news, trends, and sentiments in the generative AI industry and market. News are categorized, summarized, and analyzed for sentiment.
 
 ## Table of Contents
 
-- [News with sentiment by themes and companies](#news-with-sentiment-by-themes-and-companies)
+- [Overview: what's going on in AI, main trends, and companies](#overview-whats-going-on-in-ai-main-trends-and-companies)
     - [Microsoft - OpenAI](#microsoft---openai)
     - [Meta](#meta)
     - [Google](#google)
     - [Anthropic](#anthropic)
     - [Mistral](#mistral)
-    - [AI Chips and NVIDIA](#ai-chips)
+    - [AI Chips and NVIDIA](#ai-chips-and-nvidia)
     - [Stability AI](#stability-ai)
     - [Funding](#funding)
     - [Model Releases](#model-releases)
@@ -85,15 +85,30 @@ This repository is structured to help users quickly understand the main news, tr
     - [News of week ending at 2023-01-23](#news-of-week-ending-at-2023-01-23)
 
 
-## News with sentiment by themes and companies
+## Overview: what's going on in AI, main trends, and companies
+
+[Back to table of contents](#table-of-contents)
 
 Here you can find some of the most relevant news split by themes and companies. The 🟢 and 🔴 emojis represent the sentiment of the news with respect to its theme/company.
 
 For example, the news [OpenAI prepares to launch an improved GPT-5](https://www.businessinsider.com/openai-launch-better-gpt-5-chatbot-2024-3) has a positive sentiment with respect to OpenAI, and therefore it's marked with the 🟢 emoji. In contrast, the news [Legal challenges emerge as The New York Times sues OpenAI and Microsoft](https://www.theverge.com/2023/12/27/24016212/new-york-times-openai-microsoft-lawsuit-copyright-infringement) has a negative sentiment for OpenAI and therefore has the 🔴 emoji.
 
+Here's the list of available trends:
+- [Microsoft - OpenAI](#microsoft---openai)
+- [Meta](#meta)
+- [Google](#google)
+- [Anthropic](#anthropic)
+- [Mistral](#mistral)
+- [AI Chips and NVIDIA](#ai-chips-and-nvidia)
+- [Stability AI](#stability-ai)
+- [Funding](#funding)
+- [Model Releases](#model-releases)
+
 ### Microsoft - OpenAI
 
-[Back to table of contents](#table-of-contents)
+<div style="width: 100%; height:6px; background-color: #FBF8CC; margin-bottom: 16px;"></div>
+
+[Back to trends list](#overview-whats-going-on-in-ai-main-trends-and-companies)
 
 - **April 2024**: [Microsoft and OpenAI plan a $100 billion AI supercomputer project](https://www.tomshardware.com/tech-industry/artificial-intelligence/openai-and-microsoft-reportedly-planning-dollar100-billion-datacenter-project-for-an-ai-supercomputer) 🟢 to advance AI research, [OpenAI introduces a voice cloning AI model](https://www.theverge.com/2024/3/29/24115701/openai-voice-generation-ai-model) 🟢 that generates synthetic voices from short samples, [OpenAI's GPT-4 utilized by Moderna for mRNA research](https://pharmaphorum.com/news/moderna-banks-openai-accelerate-mrna-research) 🟢, [Apple explores integrating ChatGPT for iPhone's AI services](https://gizmodo.com/chatgpt-openai-could-power-apple-iphones-ai-chatbot-1851439853) 🟢, and [Microsoft launches compact AI model Phi-3](https://www.theverge.com/2024/4/23/24137534/microsoft-phi-3-launch-small-ai-language-model) 🟢 focusing on stages of progressive learning.
 
@@ -129,7 +144,9 @@ For example, the news [OpenAI prepares to launch an improved GPT-5](https://www.
 
 ### Meta
 
-[Back to table of contents](#table-of-contents)
+<div style="width: 100%; height:6px; background-color: #A3C4F3; margin-bottom: 16px;"></div>
+
+[Back to trends list](#overview-whats-going-on-in-ai-main-trends-and-companies)
 
 - **April 2024**: [Meta introduces Meta Llama 3](https://ai.meta.com/blog/meta-llama-3/) 🟢, a new open-source LLM with up to 70 billion parameters and versions that include both 8B and 70B scales, expanding into models over 400 billion parameters soon, and [Meta's Llama 3 set to compete with GPT-4](https://the-decoder.com/metas-open-source-gpt-4-competitor-llama-3-is-coming-soon/) 🟢, featuring AI advancements that aim to surpass previous iterations with a full multimodal version expected in the summer.
 
@@ -159,7 +176,9 @@ For example, the news [OpenAI prepares to launch an improved GPT-5](https://www.
 
 ### Google
 
-[Back to table of contents](#table-of-contents)
+<div style="width: 100%; height:6px; background-color: #FDE4CF; margin-bottom: 16px;"></div>
+
+[Back to trends list](#overview-whats-going-on-in-ai-main-trends-and-companies)
 
 - **April 2024**: [Apple may integrate ChatGPT or Gemini into iPhone's iOS](https://gizmodo.com/chatgpt-openai-could-power-apple-iphones-ai-chatbot-1851439853) 🟢 to enhance AI capabilities, risking dependency on external innovations; [Google unveiled powerful AI chips](https://qz.com/google-ai-chip-nvidia-axion-arm-microsoft-1851397201) 🟢, pushing computing boundaries and intensifying competition in the AI hardware sector; [Claude 3 Opus surpasses Gemini Pro in AI efficiency](https://huggingface.co/spaces/lmsys/chatbot-arena-leaderboard) 🔴, marking significant advancements in AI performance and cost-effectiveness.
 
@@ -193,7 +212,9 @@ For example, the news [OpenAI prepares to launch an improved GPT-5](https://www.
 
 ### Anthropic
 
-[Back to table of contents](#table-of-contents)
+<div style="width: 100%; height:6px; background-color: #90DBF4; margin-bottom: 16px;"></div>
+
+[Back to trends list](#overview-whats-going-on-in-ai-main-trends-and-companies)
 
 - **April 2024**: [Claude 3 Opus matches GPT-4 Turbo in performance](https://huggingface.co/spaces/lmsys/chatbot-arena-leaderboard) 🟢, and [Amazon intensified its AI endeavors by investing in Anthropic](https://www.aboutamazon.com/news/company-news/amazon-anthropic-ai-investment) 🟢, challenging its team to surpass Anthropic's Claude models to keep pace with Microsoft in the AI domain.
 
@@ -219,7 +240,9 @@ For example, the news [OpenAI prepares to launch an improved GPT-5](https://www.
 
 ### Mistral
 
-[Back to table of contents](#table-of-contents)
+<div style="width: 100%; height:6px; background-color: #FFCFD2; margin-bottom: 16px;"></div>
+
+[Back to trends list](#overview-whats-going-on-in-ai-main-trends-and-companies)
 
 - **April 2024**: [Mistral unveiled Mixtral 8x22B](https://mistral.ai/news/mixtral-8x22b/) 🟢, a sophisticated AI model with 39B active out of 141B total parameters, excelling in multilingual communication and complex reasoning tasks, and offered under an open-source license.
 
@@ -235,7 +258,9 @@ For example, the news [OpenAI prepares to launch an improved GPT-5](https://www.
 
 ### AI Chips and NVIDIA
 
-[Back to table of contents](#table-of-contents)
+<div style="width: 100%; height:6px; background-color: #8EECF5; margin-bottom: 16px;"></div>
+
+[Back to trends list](#overview-whats-going-on-in-ai-main-trends-and-companies)
 
 - **April 2024**: [Google introduces powerful new AI chips and CPUs](https://qz.com/google-ai-chip-nvidia-axion-arm-microsoft-1851397201) 🟢 to bolster performance and energy efficiency, [Lambda expands AI cloud services with a $500M NVIDIA GPU-backed facility](https://www.businesswire.com/news/home/20240402148086/en/Lambda-Announces-500M-GPU-Backed-Facility-to-Expand-Cloud-for-AI) 🟢, and [Microsoft collaborates with OpenAI on a $100 billion AI supercomputer project](https://www.tomshardware.com/tech-industry/artificial-intelligence/openai-and-microsoft-reportedly-planning-dollar100-billion-datacenter-project-for-an-ai-supercomputer) 🟢, demonstrating significant investments in advanced AI infrastructures.
 
@@ -267,7 +292,9 @@ For example, the news [OpenAI prepares to launch an improved GPT-5](https://www.
 
 ### Stability AI
 
-[Back to table of contents](#table-of-contents)
+<div style="width: 100%; height:6px; background-color: #F1C0E8; margin-bottom: 16px;"></div>
+
+[Back to trends list](#overview-whats-going-on-in-ai-main-trends-and-companies)
 
 - **April 2024**: [Stability AI launches Stable Audio 2.0](https://stability.ai/news/stable-audio-2-0) 🟢 introducing enhanced AI music generation capabilities, like audio-to-audio conversion and high-quality song production from concise language prompts.
 
@@ -299,7 +326,9 @@ For example, the news [OpenAI prepares to launch an improved GPT-5](https://www.
 
 ### Funding
 
-[Back to table of contents](#table-of-contents)
+<div style="width: 100%; height:6px; background-color: #98F5E1; margin-bottom: 16px;"></div>
+
+[Back to trends list](#overview-whats-going-on-in-ai-main-trends-and-companies)
 
 - **April 2024**: [Elon Musk's AI startup xAI nears $6B funding](https://techcrunch.com/2024/04/25/xai-elon-musks-openai-rival-is-closing-on-6b-in-funding-and-x-his-social-network-is-already-one-of-its-shareholders) 🟢 with significant backing due to his strong track record in tech, [Microsoft and OpenAI plan a $100B AI supercomputer](https://www.tomshardware.com/tech-industry/artificial-intelligence/openai-and-microsoft-reportedly-planning-dollar100-billion-datacenter-project-for-an-ai-supercomputer) 🟢 to advance AI research capabilities, [Lambda secures $500M for AI cloud expansion](https://www.businesswire.com/news/home/20240402148086/en/Lambda-Announces-500M-GPU-Backed-Facility-to-Expand-Cloud-for-AI) 🟢 leveraging NVIDIA GPUs, and [Amazon invests $4B in Anthropic](https://www.aboutamazon.com/news/company-news/amazon-anthropic-ai-investment) 🟢 to enhance generative AI models using AWS technology.
 
@@ -329,7 +358,9 @@ For example, the news [OpenAI prepares to launch an improved GPT-5](https://www.
 
 ### Model Releases
 
-[Back to table of contents](#table-of-contents)
+<div style="width: 100%; height:6px; background-color: #CFBAF0; margin-bottom: 16px;"></div>
+
+[Back to trends list](#overview-whats-going-on-in-ai-main-trends-and-companies)
 
 - **April 2024**: [Apple launched OpenELM](https://venturebeat.com/ai/apple-releases-openelm-small-open-source-ai-models-designed-to-run-on-device/) 🟢, offering compact, open-source AI models optimized for on-device operations, [Snowflake introduced Arctic](https://www.snowflake.com/blog/arctic-open-efficient-foundation-language-models-snowflake/) 🟢, a cost-effective enterprise LLM with hybrid transformer architecture, [Meta unveiled Meta Llama 3](https://ai.meta.com/blog/meta-llama-3/) 🟢, advancing open-source LLMs with enhanced reasoning and multilingual support, [Mistral released Mixtral 8x22B](https://mistral.ai/news/mixtral-8x22b/) 🟢, featuring a high-capacity Mixture-of-Experts model for diverse cognitive tasks, and [Databricks revealed DBRX](https://www.databricks.com/blog/introducing-dbrx-new-state-art-open-llm) 🟢, a new benchmark-setting open-source LLM with expert architecture.
 
@@ -361,11 +392,11 @@ For example, the news [OpenAI prepares to launch an improved GPT-5](https://www.
 
 # All news with summaries and topics
 
-[Back to table of contents](#table-of-contents)
-
 In this section you can find a list of ~300 relevant generative AI news from the last 1-2 years and their summaries, sorted by date and categorized by topic.
 
 ## Topic filters
+
+[Back to table of contents](#table-of-contents)
 
 To find all the news of a specific topic, use `CTRL-F` to find all the occurrences of the topic name with its emoji.
 For example, to see all the news about OpenAI, search for "OpenAI 🌟".
