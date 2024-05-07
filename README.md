@@ -4,6 +4,10 @@ Welcome to the **AI News Tracker**, a comprehensive repository designed to organ
 
 This repository is structured to help users quickly understand the main news, trends, and sentiments in the generative AI industry and market. News are categorized, summarized, and analyzed for sentiment.
 
+_Want to stay updated?_
+- _[Follow me on Medium](https://medium.com/@chiusanofabio94) to see my weekly AI news posts. You can also receive them via email._
+- _[Follow NLPlanet on LinkedIn](https://www.linkedin.com/company/nlplanet) to see daily news and research directly in your feed._
+
 ## Table of Contents
 
 - [Overview: what's going on in AI, main trends, and companies](#overview-whats-going-on-in-ai-main-trends-and-companies)
@@ -106,7 +110,7 @@ Here's the list of available trends:
 
 ### Microsoft - OpenAI
 
-<div style="width: 100%; height:6px; background-color: #FBF8CC; margin-bottom: 16px;"></div>
+<img src="images/FBF8CC.jpg" style="margin-bottom: 10px;"/>
 
 [Back to trends list](#overview-whats-going-on-in-ai-main-trends-and-companies)
 
@@ -144,7 +148,7 @@ Here's the list of available trends:
 
 ### Meta
 
-<div style="width: 100%; height:6px; background-color: #A3C4F3; margin-bottom: 16px;"></div>
+<img src="images/A3C4F3.jpg" style="margin-bottom: 10px;"/>
 
 [Back to trends list](#overview-whats-going-on-in-ai-main-trends-and-companies)
 
@@ -176,7 +180,7 @@ Here's the list of available trends:
 
 ### Google
 
-<div style="width: 100%; height:6px; background-color: #FDE4CF; margin-bottom: 16px;"></div>
+<img src="images/FDE4CF.jpg" style="margin-bottom: 10px;"/>
 
 [Back to trends list](#overview-whats-going-on-in-ai-main-trends-and-companies)
 
@@ -212,7 +216,7 @@ Here's the list of available trends:
 
 ### Anthropic
 
-<div style="width: 100%; height:6px; background-color: #90DBF4; margin-bottom: 16px;"></div>
+<img src="images/90DBF4.jpg" style="margin-bottom: 10px;"/>
 
 [Back to trends list](#overview-whats-going-on-in-ai-main-trends-and-companies)
 
@@ -240,7 +244,7 @@ Here's the list of available trends:
 
 ### Mistral
 
-<div style="width: 100%; height:6px; background-color: #FFCFD2; margin-bottom: 16px;"></div>
+<img src="images/FFCFD2.jpg" style="margin-bottom: 10px;"/>
 
 [Back to trends list](#overview-whats-going-on-in-ai-main-trends-and-companies)
 
@@ -258,7 +262,7 @@ Here's the list of available trends:
 
 ### AI Chips and NVIDIA
 
-<div style="width: 100%; height:6px; background-color: #8EECF5; margin-bottom: 16px;"></div>
+<img src="images/8EECF5.jpg" style="margin-bottom: 10px;"/>
 
 [Back to trends list](#overview-whats-going-on-in-ai-main-trends-and-companies)
 
@@ -292,7 +296,7 @@ Here's the list of available trends:
 
 ### Stability AI
 
-<div style="width: 100%; height:6px; background-color: #F1C0E8; margin-bottom: 16px;"></div>
+<img src="images/F1C0E8.jpg" style="margin-bottom: 10px;"/>
 
 [Back to trends list](#overview-whats-going-on-in-ai-main-trends-and-companies)
 
@@ -326,7 +330,7 @@ Here's the list of available trends:
 
 ### Funding
 
-<div style="width: 100%; height:6px; background-color: #98F5E1; margin-bottom: 16px;"></div>
+<img src="images/98F5E1.jpg" style="margin-bottom: 10px;"/>
 
 [Back to trends list](#overview-whats-going-on-in-ai-main-trends-and-companies)
 
@@ -358,7 +362,7 @@ Here's the list of available trends:
 
 ### Model Releases
 
-<div style="width: 100%; height:6px; background-color: #CFBAF0; margin-bottom: 16px;"></div>
+<img src="images/CFBAF0.jpg" style="margin-bottom: 10px;"/>
 
 [Back to trends list](#overview-whats-going-on-in-ai-main-trends-and-companies)
 
