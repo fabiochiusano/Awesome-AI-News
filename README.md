@@ -4,6 +4,8 @@ Welcome to the **AI News Tracker**, a comprehensive repository designed to organ
 
 This repository is structured to help users quickly understand the main news, trends, and sentiments in the generative AI industry and market. News are categorized, summarized, and analyzed for sentiment (marked with 🟢 if positive, 🔴 if negative).
 
+Topics and sentiment have been assigned by AI, so there may be errors there. Summaries are AI-generated too but they have been manually proofread/fixed.
+
 _Want to stay updated on generative AI news?_
 - _[Follow me on Medium](https://medium.com/@chiusanofabio94) to see my weekly AI news posts. You can also receive them via email._
 - _[Follow NLPlanet on LinkedIn](https://www.linkedin.com/company/nlplanet) to see daily news and research directly in your feed._
