@@ -1,6 +1,6 @@
 # ✨ AI News Tracker ✨ 2023-Present
 
-Welcome to the **AI News Tracker**, a comprehensive repository designed to organize and present the most relevant news and topics about generative AI from the past 1-2 years.
+Welcome to the **AI News Tracker**, a comprehensive repository designed to organize and present the most relevant news and topics about AI from the past 1-2 years, with a focus on generative AI.
 
 This repository is structured to help users quickly understand the main news, trends, and sentiments in the generative AI industry and market. News are categorized, summarized, and analyzed for sentiment (marked with 🟢 if positive, 🔴 if negative).
 
@@ -23,6 +23,17 @@ News are classified with the following topics. Click on a topic to only see the 
 | [AI for images 🖼️](topics/Topic_AI_for_images.md) | [AI in healthcare 🏥](topics/Topic_AI_in_healthcare.md) |[Speech-to-text 🎤](topics/Topic_Speech-to-text.md) |[Text-to-speech 📢](topics/Topic_Text-to-speech.md) |[AI datasets 📊](topics/Topic_AI_datasets.md) |
 | [AI and copyright ©️](topics/Topic_AI_and_copyright.md) | [Whisper 🤫](topics/Topic_Whisper.md) |[AI safety 🔐](topics/Topic_AI_safety.md) |[Hugging Face 🤗](topics/Topic_Hugging_Face.md) |[Reinforcement learning 🎮](topics/Topic_Reinforcement_learning.md) |
 | [LangChain and LlamaIndex 🔗](topics/Topic_LangChain_and_LlamaIndex.md) |
+
+## News of week ending at 2024-05-06
+
+| Title | Summary | Topics | Week |
+| --- | --- | --- | --- |
+| [Mysterious “gpt2-chatbot” AI model appears suddenly, confuses experts](https://arstechnica.com/information-technology/2024/04/rumors-swirl-about-mystery-gpt2-chatbot-that-some-think-is-gpt-5-in-disguise/) 🔴 | The “gpt2-chatbot” recently emerged on the LMSYS Chatbot Arena, generating discussions within the AI community about its potential relation to new OpenAI models. While demonstrating strong performance, analyses indicate it does not outperform GPT-4, and its exact origin and details are still uncertain. | [GPT-4 and GPT-4 turbo 🚀](topics/Topic_GPT-4_and_GPT-4_turbo.md), [OpenAI 🌟](topics/Topic_OpenAI.md) | 2024-05-06 |
+| [GitHub Copilot Workspace](https://github.blog/2024-04-29-github-copilot-workspace/) 🟢 | GitHub has launched Copilot Workspace, a comprehensive developer environment that facilitates the entire coding process, including planning, coding, testing, and deployment, through natural language commands, offering AI-industry professionals an integrated solution for streamlining development workflows. | [AI for coding 👨‍💻](topics/Topic_AI_for_coding.md) | 2024-05-06 |
+| [OpenAI CEO Sam Altman says GPT-4 is the dumbest AI model you’ll ever have to use again](https://the-decoder.com/openai-ceo-sam-altman-promises-ai-models-that-far-surpass-gpt-4/) 🟢 | OpenAI’s Sam Altman considers GPT-4 the most rudimentary AI that users will encounter as the company progresses towards more sophisticated models like GPT-5, which is expected to feature enhanced abilities such as video generation. He foresees AI developing into highly efficient assistants, performing tasks and providing solutions effortlessly. | [GPT-4 and GPT-4 turbo 🚀](topics/Topic_GPT-4_and_GPT-4_turbo.md), [GPT-5 🔮](topics/Topic_GPT-5.md), [OpenAI 🌟](topics/Topic_OpenAI.md), [Multimodal AI (image, video, audio) 📸](topics/Topic_Multimodal_AI_(image_video_audio).md) | 2024-05-06 |
+| [Pro music video powered by OpenAI’s Sora released in a world-first](https://interestingengineering.com/culture/sora-powered-music-video) 🟢 | Paul Trillo directed the official music video for Washed Out’s “The Hardest Part” using OpenAI’s Sora, a text-to-video AI, producing 700 clips of which 55 were used. The project has stirred ethical discussions within the AI industry. | [AI and copyright ©️](topics/Topic_AI_and_copyright.md), [AI for images 🖼️](topics/Topic_AI_for_images.md), [Multimodal AI (image, video, audio) 📸](topics/Topic_Multimodal_AI_(image_video_audio).md), [OpenAI 🌟](topics/Topic_OpenAI.md) | 2024-05-06 |
+| [A ChatGPT search engine is rumored to be coming next week](https://mashable.com/article/chatgpt-search-announcement-what-we-know) 🟢 | OpenAI is rumored to be launching a ChatGPT-based search engine, potentially at “search.chatgpt.com,” aiming to rival Google by integrating a chatbot feature with traditional search results. This reflects the industry trend of AI potentially revolutionizing standard web search methods. | [Google 🔍](topics/Topic_Google.md), [ChatGPT 💬](topics/Topic_ChatGPT.md), [OpenAI 🌟](topics/Topic_OpenAI.md) | 2024-05-06 |
+| [Memory and new controls for ChatGPT](https://openai.com/index/memory-and-new-controls-for-chatgpt) 🟢 | OpenAI is testing a new memory feature for ChatGPT to improve interaction continuity, offering user-managed options for adding, reviewing, and deleting retained information or disabling the feature. | [ChatGPT 💬](topics/Topic_ChatGPT.md), [OpenAI 🌟](topics/Topic_OpenAI.md) | 2024-05-06 |
 
 ## News of week ending at 2024-04-29
 
