@@ -24,6 +24,16 @@ News are classified with the following topics. Click on a topic to only see the 
 | [AI and copyright ©️](topics/Topic_AI_and_copyright.md) | [Whisper 🤫](topics/Topic_Whisper.md) |[AI safety 🔐](topics/Topic_AI_safety.md) |[Hugging Face 🤗](topics/Topic_Hugging_Face.md) |[Reinforcement learning 🎮](topics/Topic_Reinforcement_learning.md) |
 | [LangChain and LlamaIndex 🔗](topics/Topic_LangChain_and_LlamaIndex.md) |
 
+## News of week ending at 2024-05-13
+
+| Title | Summary | Topics | Week |
+| --- | --- | --- | --- |
+| [DeepMind releases AlphaFold 3](https://blog.google/technology/ai/google-deepmind-isomorphic-alphafold-3-ai-model/#life-molecules) 🟢 | AlphaFold 3 is an advanced AI model by Google DeepMind and Isomorphic Labs, capable of accurately predicting biomolecular structures and interactions. Providing a significant advancement over prior models, it enhances scientific research and drug development, and is available globally through the AlphaFold Server. | [AI in healthcare 🏥](topics/Topic_AI_in_healthcare.md), [Model release 🎉](topics/Topic_Model_release.md), [DeepMind 🧩](topics/Topic_DeepMind.md), [Google 🔍](topics/Topic_Google.md) | 2024-05-13 |
+| [Microsoft allegedly developing MAI-1, a competing model to OpenAI’s GPT-4](https://the-decoder.com/microsoft-allegedly-developing-mai-1-a-competing-model-to-openais-gpt-4/) 🟢 | Microsoft is currently working on MAI-1, a 500 billion parameter AI model, aiming for a competitive edge in the AI industry and moving towards greater independence in AI development. | [Microsoft 🪟](topics/Topic_Microsoft.md), [GPT-4 and GPT-4 turbo 🚀](topics/Topic_GPT-4_and_GPT-4_turbo.md), [OpenAI 🌟](topics/Topic_OpenAI.md) | 2024-05-13 |
+| [gpt2-chatbot confirmed as OpenAI](https://simonwillison.net/2024/May/8/gpt2-chatbot-confirmed-as-openai/) 🔴 | The gpt2-chatbot that appeared in the LMSYS arena was confirmed to be an OpenAI test model after a 429 rate limit error revealed its connection to OpenAI’s API. Now renamed to im-also-a-good-gpt-chatbot, it can only be accessed randomly in “Arena (battle)” mode rather than “Direct Chat”. | [OpenAI 🌟](topics/Topic_OpenAI.md) | 2024-05-13 |
+| [OpenAI partnership with Stack Overflow](https://openai.com/index/api-partnership-with-stack-overflow/) 🟢 | OpenAI is partnering with Stack Overflow to integrate their OverflowAPI into ChatGPT, enriching it with Stack Overflow’s extensive developer knowledge for more accurate, programming-related AI responses. | [AI for coding 👨‍💻](topics/Topic_AI_for_coding.md), [ChatGPT 💬](topics/Topic_ChatGPT.md), [OpenAI 🌟](topics/Topic_OpenAI.md) | 2024-05-13 |
+| [Neuralink Safety Concerns Drove Co-Founder to Break Up With Elon Musk](https://decrypt.co/229816/neuralink-safety-concerns-drove-co-founder-to-break-up-with-elon-musk) 🔴 | Neuralink’s co-founder has departed to create a new venture focusing on a safer, non-invasive brain-computer interface technology using surface microelectrodes, in contrast to Neuralink’s penetrating electrodes method. | [Neuralink 🧠](topics/Topic_Neuralink.md), [AI in healthcare 🏥](topics/Topic_AI_in_healthcare.md), [AI safety 🔐](topics/Topic_AI_safety.md) | 2024-05-13 |
+
 ## News of week ending at 2024-05-06
 
 | Title | Summary | Topics | Week |
