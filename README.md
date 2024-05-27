@@ -6,7 +6,7 @@ This repository is structured to help users quickly understand the main news, tr
 
 Topics and sentiment have been assigned by AI, so there may be errors there. Summaries have been manually proofread and fixed from AI-generated ones.
 
-All the news and their classifications can be found in the `articles.json` file. Feel free to use them as you wish!
+All the news and their classifications can be found in the `articles.json` file.
 
 _Want to stay updated on generative AI news?_
 - _[Follow NLPlanet on LinkedIn](https://www.linkedin.com/company/nlplanet) to see daily news and research directly in your LinkedIn feed._
