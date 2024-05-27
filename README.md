@@ -4,11 +4,11 @@ Welcome to the **AI News Tracker**, a comprehensive repository designed to organ
 
 This repository is structured to help users quickly understand the main news, trends, and sentiments in the generative AI industry and market. News are categorized, summarized, and analyzed for sentiment (marked with 🟢 if positive, 🔴 if negative).
 
-Topics and sentiment have been assigned by AI, so there may be errors there. Summaries are AI-generated too but they have been manually proofread/fixed.
+Topics and sentiment have been assigned by AI, so there may be errors there. Summaries are AI-generated too but they have been manually proofread and fixed.
 
 _Want to stay updated on generative AI news?_
-- _[Follow me on Medium](https://medium.com/@chiusanofabio94) to see my weekly AI news posts. You can also receive them via email._
-- _[Follow NLPlanet on LinkedIn](https://www.linkedin.com/company/nlplanet) to see daily news and research directly in your feed._
+- _[Follow me on Medium](https://medium.com/@chiusanofabio94) to see my weekly AI news posts, covering guides and papers as well. You can also receive them via email._
+- _[Follow NLPlanet on LinkedIn](https://www.linkedin.com/company/nlplanet) to see daily news and research directly in your LinkedIn feed._
 
 ## News topics
 
@@ -25,6 +25,17 @@ News are classified with the following topics. Click on a topic to only see the 
 | [AI for images 🖼️](topics/Topic_AI_for_images.md) | [AI in healthcare 🏥](topics/Topic_AI_in_healthcare.md) |[Speech-to-text 🎤](topics/Topic_Speech-to-text.md) |[Text-to-speech 📢](topics/Topic_Text-to-speech.md) |[AI datasets 📊](topics/Topic_AI_datasets.md) |
 | [AI and copyright ©️](topics/Topic_AI_and_copyright.md) | [Whisper 🤫](topics/Topic_Whisper.md) |[AI safety 🔐](topics/Topic_AI_safety.md) |[Hugging Face 🤗](topics/Topic_Hugging_Face.md) |[Reinforcement learning 🎮](topics/Topic_Reinforcement_learning.md) |
 | [LangChain and LlamaIndex 🔗](topics/Topic_LangChain_and_LlamaIndex.md) |
+
+## News of week ending at 2024-05-27
+
+| Title | Summary | Topics | Week |
+| --- | --- | --- | --- |
+| [Nvidia Stock Surges as Sales Forecast Delivers on AI Hopes](https://finance.yahoo.com/news/nvidia-forecast-shatters-estimates-ai-210754051.html) 🟢 | Nvidia’s stock surged 9.3% after a promising sales forecast, pointing to a robust demand for AI technologies. The $28 billion projected Q2 revenue exceeds expectations, highlighting the company’s strong position in the AI market, buoyed by their new Blackwell chips and significant data-center revenue. | [NVIDIA 🎮](topics/Topic_NVIDIA.md), [AI Chips and GPUs 🖥️](topics/Topic_AI_Chips_and_GPUs.md) | 2024-05-27 |
+| [Microsoft introduces Phi-Silica, a 3.3B parameter model made for Copilot+ PC NPUs](https://venturebeat.com/ai/microsoft-introduces-phi-silica-a-3-3b-parameter-model-made-for-copilot-pc-npus/) 🟢 | Microsoft has unveiled Phi-Silica, a compact language model with 3.3 billion parameters, tailored for Copilot+ PCs equipped with NPUs. This model is engineered for rapid on-device inferencing, improving productivity and accessibility for Windows users with optimal power efficiency. Phi-Silica is Microsoft’s inaugural local language model, with a release slated for June. | [Model release 🎉](topics/Topic_Model_release.md), [AI Chips and GPUs 🖥️](topics/Topic_AI_Chips_and_GPUs.md), [Microsoft 🪟](topics/Topic_Microsoft.md) | 2024-05-27 |
+| [mistralai/Mistral-7B-Instruct-v0.3](https://huggingface.co/mistralai/Mistral-7B-Instruct-v0.3) 🟢 | Mistral has launched version 3 of their 7B model, the models “Mistral-7B-v0.3” and “Mistral-7B-Instruct-v0.3”. Enhancements include an expanded vocabulary of 32,768 terms, integration with the v3 Tokenizer, and new function calling capabilities. | [Mistral 🌬️](topics/Topic_Mistral.md), [Model release 🎉](topics/Topic_Model_release.md) | 2024-05-27 |
+| [OpenAI reportedly didn’t intend to copy Scarlett Johansson’s voice](https://www.engadget.com/openai-didnt-intend-to-copy-scarlett-johanssons-voice-the-washington-post-reports-041247992.html) 🔴 | OpenAI’s selection of a voice for its Sky assistant, which prioritized warmth and charisma, sparked controversy when Scarlett Johansson noted a strong resemblance to her own voice, leading to public and legal issues. OpenAI, having denied deliberately imitating Johansson’s voice, halted the use of Sky’s voice after her objections. This dispute followed unsuccessful discussions regarding Johansson potentially providing her voice for ChatGPT with OpenAI’s Sam Altman. | [AI and copyright ©️](topics/Topic_AI_and_copyright.md), [Text-to-speech 📢](topics/Topic_Text-to-speech.md), [OpenAI 🌟](topics/Topic_OpenAI.md) | 2024-05-27 |
+| [OpenAI sends internal memo releasing former employees from controversial exit agreements](https://www.cnbc.com/2024/05/24/openai-sends-internal-memo-releasing-former-employees-from-non-disparagement-agreements-sam-altman.html) 🟢 | OpenAI reversed a decision that would have required former employees to agree to a perpetual non-disparagement clause in order to retain their vested equity. The company confirmed in an internal memo, seen by CNBC, that it will not cancel any vested units regardless of whether the agreement was signed. | [OpenAI 🌟](topics/Topic_OpenAI.md) | 2024-05-27 |
+| [Amazon plans to give Alexa an AI overhaul — and a monthly subscription price](https://www.cnbc.com/2024/05/22/amazon-plans-to-give-alexa-an-ai-overhaul-monthly-subscription-price.html) 🟢 | Amazon is updating Alexa with advanced generative AI capabilities and launching an additional subscription service separate from Prime in efforts to stay competitive with Google and OpenAI’s chatbots, reflecting the company’s strategic emphasis on AI amidst internal and leadership changes. | [Amazon 🌳](topics/Topic_Amazon.md), [Google 🔍](topics/Topic_Google.md), [OpenAI 🌟](topics/Topic_OpenAI.md) | 2024-05-27 |
 
 ## News of week ending at 2024-05-21
 
