@@ -4,7 +4,7 @@ Welcome to the **AI News Tracker**, a comprehensive repository designed to organ
 
 This repository is structured to help users quickly understand the main news, trends, and sentiments in the generative AI industry and market. News are categorized, summarized, and analyzed for sentiment (marked with 🟢 if positive, 🔴 if negative).
 
-Topics and sentiment have been assigned by AI, so there may be errors there. Summaries are AI-generated too but they have been manually proofread and fixed.
+Topics and sentiment have been assigned by AI, so there may be errors there. Summaries have been manually proofread and fixed from AI-generated ones.
 
 All the news and their classifications can be found in the `articles.json` file.
 
