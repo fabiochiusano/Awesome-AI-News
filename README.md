@@ -28,6 +28,16 @@ News are classified with the following topics. Click on a topic to only see the 
 | [AI and copyright ©️](topics/Topic_AI_and_copyright.md) | [Whisper 🤫](topics/Topic_Whisper.md) |[AI safety 🔐](topics/Topic_AI_safety.md) |[Hugging Face 🤗](topics/Topic_Hugging_Face.md) |[Reinforcement learning 🎮](topics/Topic_Reinforcement_learning.md) |
 | [LangChain and LlamaIndex 🔗](topics/Topic_LangChain_and_LlamaIndex.md) |
 
+## News of week ending at 2024-06-03
+
+| Title | Summary | Topics | Week |
+| --- | --- | --- | --- |
+| [Gemini 1.5 Pro/Advanced at #2 on the LMSYS leaderboard, right behind GPT-4o](https://x.com/lmsysorg/status/1795512202465845686) 🟢 | The latest LMSYS leaderboard shows that Gemini 1.5 Pro/Advanced ranks second, right behind GPT-4o, while Gemini 1.5 Flash holds the ninth position, surpassing Llama-3–70b and closely competing with GPT-4–0120. | [Google Gemini 🌌](topics/Topic_Google_Gemini.md), [GPT-4 and GPT-4 turbo 🚀](topics/Topic_GPT-4_and_GPT-4_turbo.md), [OpenAI 🌟](topics/Topic_OpenAI.md) | 2024-06-03 |
+| [Anthropic hires former OpenAI safety lead to head up new team](https://techcrunch.com/2024/05/28/anthropic-hires-former-openai-safety-lead-to-head-up-new-team/) 🟢 | Jan Leike has moved from OpenAI to Anthropic to head a new AI safety team dedicated to “superalignment,” focusing on enhancing scalable oversight and large-scale AI alignment research. | [AI safety 🔐](topics/Topic_AI_safety.md), [Anthropic 🌐](topics/Topic_Anthropic.md), [OpenAI 🌟](topics/Topic_OpenAI.md) | 2024-06-03 |
+| [xAI announces series B funding round of $6 billion](https://x.ai/blog/series-b) 🟢 | xAI has raised $6 billion in a Series B round to expand AI tech deployment, including their Grok-1 series, and to innovate new products, building on a year of significant AI advancements and the Grok-1 open-source release. | [Grok 🐦](topics/Topic_Grok.md), [Funding 💰](topics/Topic_Funding.md) | 2024-06-03 |
+| [Mistral releases Codestral](https://mistral.ai/news/codestral/) 🟢 | Codestral is Mistral AI’s new generative AI model focused on coding, boasting proficiency in over 80 programming languages and a large 32k context window for superior performance in benchmarks. | [AI for coding 👨‍💻](topics/Topic_AI_for_coding.md), [Model release 🎉](topics/Topic_Model_release.md), [Mistral 🌬️](topics/Topic_Mistral.md) | 2024-06-03 |
+| [China invests $47 billion in largest ever chip fund](https://techxplore.com/news/2024-05-china-invests-billion-largest-chip.html) 🟢 | China allocated $47.48 billion to a new chip fund aimed at advancing domestic semiconductor production, a critical step toward self-sufficiency and competitiveness in technology sectors, including AI. | [Funding 💰](topics/Topic_Funding.md), [AI Chips and GPUs 🖥️](topics/Topic_AI_Chips_and_GPUs.md) | 2024-06-03 |
+
 ## News of week ending at 2024-05-27
 
 | Title | Summary | Topics | Week |
