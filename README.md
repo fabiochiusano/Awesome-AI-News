@@ -28,6 +28,15 @@ News are classified with the following topics. Click on a topic to only see the 
 | [AI and copyright ©️](topics/Topic_AI_and_copyright.md) | [Whisper 🤫](topics/Topic_Whisper.md) |[AI safety 🔐](topics/Topic_AI_safety.md) |[Hugging Face 🤗](topics/Topic_Hugging_Face.md) |[Reinforcement learning 🎮](topics/Topic_Reinforcement_learning.md) |
 | [LangChain and LlamaIndex 🔗](topics/Topic_LangChain_and_LlamaIndex.md) |
 
+## News of week ending at 2024-07-08
+
+| Title | Summary | Topics | Week |
+| --- | --- | --- | --- |
+| [Apple’s Phil Schiller to reportedly join OpenAI’s board](https://www.theverge.com/2024/7/2/24191105/apple-phil-schiller-join-openai-board) 🟢 | Phil Schiller, App Store chief at Apple, may be appointed as an observer to OpenAI’s nonprofit board to deepen his understanding of AI as Apple integrates ChatGPT into their operating systems. He will participate in meetings without voting rights. | [Apple 🍏](topics/Topic_Apple.md), [OpenAI 🌟](topics/Topic_OpenAI.md) | 2024-07-08 |
+| [Adept joins Amazon](https://www.adept.ai/blog/adept-update) 🟢 | The team from Adept, including its co-founders, is integrating into Amazon’s AGI division, aiming to advance general intelligence efforts. Amazon has licensed Adept’s advanced multimodal agent technology and acquired select datasets. | [Multimodal AI (image, video, audio) 📸](topics/Topic_Multimodal_AI_(image_video_audio).md), [Amazon 🌳](topics/Topic_Amazon.md) | 2024-07-08 |
+| [Elon Musk: Grok 2 AI Arrives in August](https://www.pcmag.com/news/elon-musk-grok-2-ai-arrives-in-august) 🟢 | Elon Musk has unveiled plans for Grok 2, a new AI model expected in August 2024, promising enhanced efficiency. His company anticipates an upgrade to Grok 3 by the end of the same year, utilizing cutting-edge Nvidia GPU technology. | [Grok 🐦](topics/Topic_Grok.md), [NVIDIA 🎮](topics/Topic_NVIDIA.md), [AI Chips and GPUs 🖥️](topics/Topic_AI_Chips_and_GPUs.md) | 2024-07-08 |
+| [YouTube now lets you request removal of AI-generated content that simulates your face or voice](https://techcrunch.com/2024/07/01/youtube-now-lets-you-request-removal-of-ai-generated-content-that-simulates-your-face-or-voice/) 🟢 | YouTube’s revised privacy policy now enables users to request the removal of deepfake content replicating their likeness if it raises privacy issues, with certain considerations for content context and public interest. | [AI safety 🔐](topics/Topic_AI_safety.md), [AI and copyright ©️](topics/Topic_AI_and_copyright.md), [AI regulation 📜](topics/Topic_AI_regulation.md), [Multimodal AI (image, video, audio) 📸](topics/Topic_Multimodal_AI_(image_video_audio).md), [Google 🔍](topics/Topic_Google.md) | 2024-07-08 |
+
 ## News of week ending at 2024-07-01
 
 | Title | Summary | Topics | Week |
