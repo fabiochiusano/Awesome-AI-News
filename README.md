@@ -1,8 +1,8 @@
-# ✨ AI News Tracker ✨ 2023-Present
+# ✨ Awesome AI News ✨
 
-Welcome to the **AI News Tracker**, a comprehensive repository designed to organize and present the most relevant news and topics about AI from the past 1-2 years, with a focus on generative AI.
+**Awesome AI News** is a repository designed to organize the most relevant news and topics about AI from the past 1-2 years, with a focus on generative AI.
 
-This repository is structured to help users quickly understand the main news, trends, and sentiments in the generative AI industry and market. News are categorized, summarized, and analyzed for sentiment (marked with 🟢 if positive, 🔴 if negative).
+The goal is to help users quickly understand the main news, trends, and sentiments in the generative AI industry and market. News are categorized, summarized, and analyzed for sentiment (marked with 🟢 if positive, 🔴 if negative).
 
 Topics and sentiment have been assigned by AI, so there may be errors there. Summaries have been manually proofread and fixed from AI-generated ones.
 
@@ -27,6 +27,18 @@ News are classified with the following topics. Click on a topic to only see the 
 | [AI for images 🖼️](topics/Topic_AI_for_images.md) | [AI in healthcare 🏥](topics/Topic_AI_in_healthcare.md) |[Speech-to-text 🎤](topics/Topic_Speech-to-text.md) |[Text-to-speech 📢](topics/Topic_Text-to-speech.md) |[AI datasets 📊](topics/Topic_AI_datasets.md) |
 | [AI and copyright ©️](topics/Topic_AI_and_copyright.md) | [Whisper 🤫](topics/Topic_Whisper.md) |[AI safety 🔐](topics/Topic_AI_safety.md) |[Hugging Face 🤗](topics/Topic_Hugging_Face.md) |[Reinforcement learning 🎮](topics/Topic_Reinforcement_learning.md) |
 | [LangChain and LlamaIndex 🔗](topics/Topic_LangChain_and_LlamaIndex.md) |
+
+## News of week ending at 2024-09-16
+
+| Title | Summary | Topics | Week |
+| --- | --- | --- | --- |
+| [OpenAI releases o1-preview model](https://openai.com/index/introducing-openai-o1-preview/) 🟢 | OpenAI introduces the o1-preview, the first in a new series of reasoning models significantly adept at complex tasks in science, coding, and math. These models outperform predecessors by employing advanced reasoning before responding, with test performances comparable to PhD students in rigorous fields. Despite lacking some GPT-4o features, o1-preview excels in specialized reasoning tasks, promising substantial AI advancements. | [Model release 🎉](topics/Topic_Model_release.md), [OpenAI 🌟](topics/Topic_OpenAI.md) | 2024-09-16 |
+| [Mistral releases Pixtral 12B, its first multimodal model](https://techcrunch.com/2024/09/11/mistral-releases-pixtral-its-first-multimodal-model/) 🟢 | Mistral has introduced Pixtral 12B, a 12-billion-parameter multimodal AI model that processes both text and images. Building on features from their previous text model, Nemo 12B, Pixtral 12B is available for free download on GitHub and Hugging Face under an Apache 2.0 license. | [Multimodal AI (image, video, audio) 📸](topics/Topic_Multimodal_AI_(image_video_audio).md), [Model release 🎉](topics/Topic_Model_release.md), [Mistral 🌬️](topics/Topic_Mistral.md) | 2024-09-16 |
+| [OpenAI in talks to raise $11.5 billion at a $150 billion valuation](https://techstartups.com/2024/09/12/openai-in-talks-to-raise-11-5-billion-at-a-150-billion-valuation/) 🟢 | OpenAI is raising $11.5 billion at a $150 billion valuation, up from $86 billion. This includes $6.5 billion from investors, led by Thrive Capital and Microsoft, and $5 billion in bank debt. The funding will support OpenAI’s AI development and operational expansion while keeping the company private despite financial losses. | [Funding 💰](topics/Topic_Funding.md), [Microsoft 🪟](topics/Topic_Microsoft.md), [OpenAI 🌟](topics/Topic_OpenAI.md) | 2024-09-16 |
+| [Replit launches the Replit Agent](https://docs.replit.com/replitai/agent) 🟢 | The Replit Agent, now in early access for Core and Teams subscribers, is an AI-powered tool aimed at assisting users in software development by understanding natural language prompts, thereby making the creation of applications more accessible across various skill levels. | [AI for coding 👨‍💻](topics/Topic_AI_for_coding.md) | 2024-09-16 |
+| [Reader-LM: Small Language Models for Cleaning and Converting HTML to Markdown](https://jina.ai/news/reader-lm-small-language-models-for-cleaning-and-converting-html-to-markdown/) 🟢 | Reader-LM by Jina AI is a compact language model API for efficient HTML to markdown conversion, surpassing traditional methods like readability and regex. Despite its small size, it performs exceptionally well against larger models, supporting large token contexts and optimized for GPUs. |  | 2024-09-16 |
+| [Google is using AI to make fake podcasts from your notes](https://www.theverge.com/2024/9/11/24242138/google-notebook-llm-ai-fake-podcasts-research) 🔴 | Google’s new NotebookLM feature, Audio Overview, uses AI “hosts” to transform user notes into engaging AI-generated podcasts. While innovative, it has minor execution quirks, suits less serious topics, takes time to create, is only available in English, and may not always be fully accurate. | [Text-to-speech 📢](topics/Topic_Text-to-speech.md), [Google 🔍](topics/Topic_Google.md) | 2024-09-16 |
+| [AMD is turning its back on flagship gaming GPUs to chase AI first](https://www.theverge.com/2024/9/9/24240173/amd-udna-gpu-ai-gaming-rdna-cdna-jack-huynh) 🟢 | AMD is prioritizing AI development over flagship gaming GPUs to achieve a larger market share and attract developer support. According to Jack Huynh, the goal is to reach a 40% market share to compete with Nvidia and optimize AMD platforms for developers before potentially re-focusing on gaming GPUs. | [NVIDIA 🎮](topics/Topic_NVIDIA.md), [AI Chips and GPUs 🖥️](topics/Topic_AI_Chips_and_GPUs.md) | 2024-09-16 |
 
 ## News of week ending at 2024-09-09
 
