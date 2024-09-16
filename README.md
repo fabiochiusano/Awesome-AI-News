@@ -1,10 +1,8 @@
 # ✨ Awesome AI News ✨
 
-**Awesome AI News** is a repository designed to organize the most relevant news and topics about AI from the past 1-2 years, with a focus on generative AI.
+**Awesome AI News** is a repository that organizes the most relevant news and topics about AI from the past 1-2 years, with a focus on generative AI.
 
-The goal is to help users quickly understand the main news, trends, and sentiments in the generative AI industry and market. News are categorized, summarized, and analyzed for sentiment (marked with 🟢 if positive, 🔴 if negative).
-
-Topics and sentiment have been assigned by AI, so there may be errors there. Summaries have been manually proofread and fixed from AI-generated ones.
+The goal is to help users quickly understand the main news, trends, and sentiments in the generative AI industry and market. News are categorized, summarized, and analyzed for sentiment (marked with 🟢 if positive, 🔴 if negative). Topics and sentiment have been assigned by AI, so there may be errors there. Summaries have been manually proofread and fixed from AI-generated ones.
 
 All the news and their classifications can be found in the `articles.json` file.
 
