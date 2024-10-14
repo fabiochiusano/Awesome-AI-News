@@ -26,6 +26,14 @@ News are classified with the following topics. Click on a topic to only see the 
 | [AI and copyright ©️](topics/Topic_AI_and_copyright.md) | [Whisper 🤫](topics/Topic_Whisper.md) |[AI safety 🔐](topics/Topic_AI_safety.md) |[Hugging Face 🤗](topics/Topic_Hugging_Face.md) |[Reinforcement learning 🎮](topics/Topic_Reinforcement_learning.md) |
 | [LangChain and LlamaIndex 🔗](topics/Topic_LangChain_and_LlamaIndex.md) |
 
+## News of week ending at 2024-10-14
+
+| Title | Summary | Topics | Week |
+| --- | --- | --- | --- |
+| [Scientists who built ‘foundation’ for AI awarded Nobel Prize](https://www.theverge.com/2024/10/8/24265066/ai-nobel-prize-winners-physics-machine-learning-regret) 🟢 | Geoffrey Hinton and John Hopfield were awarded the Nobel Prize in Physics for their foundational work on artificial neural networks, including the Boltzmann machine and Hopfield network, which have been pivotal in advancing machine learning applications such as image recognition and pattern generation. |  | 2024-10-14 |
+| [Google AI scientists win Nobel Prize in chemistry](https://www.theverge.com/2024/10/9/24265962/google-deepmind-ai-nobel-prize-winners-chemistry-protein) 🟢 | Google DeepMind’s Demis Hassabis and John Jumper, alongside David Baker, received the Nobel Prize in Chemistry for their pioneering work on protein structures. Hassabis and Jumper developed AlphaFold2, an AI model that predicts protein structures, while Baker designed novel proteins. Their work accelerates research in pharmaceuticals and environmental science. | [DeepMind 🧩](topics/Topic_DeepMind.md), [Google 🔍](topics/Topic_Google.md) | 2024-10-14 |
+| [Anthropic releases the Message Batches API](https://www.anthropic.com/news/message-batches-api) 🟢 | Anthropic has introduced a new Message Batches API in public beta, enabling asynchronous processing of up to 10,000 queries per batch with a 50% cost reduction. It supports various Claude models, integrates with Amazon Bedrock, and will soon support Google Cloud’s Vertex AI. | [Amazon 🌳](topics/Topic_Amazon.md), [Claude 🖋️](topics/Topic_Claude.md), [Anthropic 🌐](topics/Topic_Anthropic.md), [Google 🔍](topics/Topic_Google.md) | 2024-10-14 |
+
 ## News of week ending at 2024-10-07
 
 | Title | Summary | Topics | Week |
