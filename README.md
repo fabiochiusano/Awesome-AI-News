@@ -7,7 +7,7 @@ The goal is to help users quickly understand the main news, trends, and sentimen
 All the news and their classifications can be found in the `articles.json` file.
 
 _Want to stay updated on generative AI news?_
-- _[Follow NLPlanet on LinkedIn](https://www.linkedin.com/company/nlplanet) to see daily news and research directly in your LinkedIn feed._
+- _[Follow Generative AI Central on LinkedIn](https://www.linkedin.com/company/generativeaicentral) to see daily news and research directly in your LinkedIn feed._
 - _[Follow me on Medium](https://medium.com/@chiusanofabio94) to see my weekly AI news posts, covering guides and papers as well. You can also receive them via email._
 
 ## News topics
