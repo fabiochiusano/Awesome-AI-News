@@ -2,12 +2,12 @@
 
 **Awesome AI News** is a repository that organizes the most relevant news and topics about AI from the past 1-2 years, with a focus on generative AI.
 
-The goal is to help users quickly understand the main news, trends, and sentiments in the generative AI industry and market. News are categorized, summarized, and analyzed for sentiment (marked with 🟢 if positive, 🔴 if negative). Topics and sentiment have been assigned by AI, so there may be errors there. Summaries have been manually proofread and fixed from AI-generated ones.
+News are categorized, summarized, and analyzed for sentiment (marked with 🟢 if positive, 🔴 if negative).
 
 All the news and their classifications can be found in the `articles.json` file.
 
 _Want to stay updated on generative AI news?_
-- _[Follow NLPlanet on LinkedIn](https://www.linkedin.com/company/nlplanet) to see daily news and research directly in your LinkedIn feed._
+- _[Follow Generative AI Central on LinkedIn](https://www.linkedin.com/company/generativeaicentral) to see daily news and research directly in your LinkedIn feed._
 - _[Follow me on Medium](https://medium.com/@chiusanofabio94) to see my weekly AI news posts, covering guides and papers as well. You can also receive them via email._
 
 ## News topics
